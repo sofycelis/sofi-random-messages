@@ -1,0 +1,29 @@
+{
+  "name": "sofi-random-messages",
+  "version": "1.0.1",
+  "description": "Get some funny message",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mensajes",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Sofia celis",
+  "license": "MIT",
+  "bin": {
+    "sofic-random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofycelis/sofi-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sofycelis/sofi-random-messages/issues"
+  },
+  "homepage": "https://github.com/sofycelis/sofi-random-messages#readme"
+}
